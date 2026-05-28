@@ -1,0 +1,8 @@
+path: D:\License-Plate-Detection-main\Final_YOLO_Dataset
+train: train/images
+val: valid/images
+test: test/images
+
+names:
+  0: license_plate
+  1: no_license_plate
